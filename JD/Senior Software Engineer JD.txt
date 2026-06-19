@@ -1,1 +1,13 @@
-We are seeking a Senior Software Engineer with strong expertise in Python, React, AWS, Node.js, SQL, and Docker to design, develop, and maintain scalable web applications and cloud-based solutions. The ideal candidate will have experience building and supporting microservices architectures, optimizing database performance, and implementing containerized deployments. Responsibilities include collaborating with cross-functional teams, developing front-end and back-end features, ensuring system reliability, and driving technical improvements. The role requires strong problem-solving abilities, effective communication skills, and a passion for mentoring team members. Experience working in Agile environments and delivering high-quality software solutions at scale is highly preferred.
+We are seeking a Senior Software Engineer with strong expertise in 
+ - Python 
+ - React 
+ - AWS 
+ - Node.js 
+ - SQL 
+ - Docker 
+ - Agile
+to design, develop, and maintain scalable web applications and cloud-based solutions. 
+The ideal candidate will have experience building and supporting microservices architectures, optimizing database performance, and implementing containerized deployments. 
+Responsibilities:
+Responsibilities include collaborating with cross-functional teams, developing front-end and back-end features, ensuring system reliability, and driving technical improvements. The role requires strong problem-solving abilities, effective communication skills, and a passion for mentoring team members. 
+Experience working in Agile environments and delivering high-quality software solutions at scale is highly preferred.
